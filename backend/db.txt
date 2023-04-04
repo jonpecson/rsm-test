@@ -1,0 +1,6 @@
+const pool = mysql.createPool({
+    host: 'sql985.main-hosting.eu',
+    user: 'u721638992_john',
+    password: 'JohnRSMTest2023!',
+    database: 'u721638992_rsm_test'
+});
